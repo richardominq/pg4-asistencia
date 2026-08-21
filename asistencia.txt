@@ -1,2 +1,21 @@
+<<<<<<< HEAD
 Luis Dominguez
 Edwin Lasso
+=======
+<<<<<<< HEAD
+Luis Domínguez
+=======
+Luis Dominguez
+<<<<<<< HEAD
+
+Rafael Flores
+=======
+Fatima Calderon
+>>>>>>> 7b4b9bf (Fatima Calderon)
+>>>>>>> 069b06cd1d5f9abc793bd3f3ee0b25ccce138bec
+
+Alvaro Rodriguez
+
+========
+Antonio Gómez
+>>>>>>> 170f5dcfd98677c723f55ea44ddad284fe43c385
