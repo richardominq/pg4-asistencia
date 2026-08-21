@@ -1,7 +1,3 @@
 Luis Dominguez
-<<<<<<< HEAD
 
-Rafael Flores
-=======
 Fatima Calderon
->>>>>>> 7b4b9bf (Fatima Calderon)
