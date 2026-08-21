@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 Luis Dominguez 
 
 Dayana Santana 
+=======
+Luis Dominguez
+
+Roger Torrero
+
+Frank Cerrud
+
+UTP
+>>>>>>> 14babd68d36f4e2ba6c3542666e2ab25d55f9379
