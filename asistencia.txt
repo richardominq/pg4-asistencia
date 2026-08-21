@@ -1,8 +1,7 @@
 Luis Dominguez
-
+<<<<<<< HEAD
 Edwin Lasso
-
-Fatima Calderon
+=======
 
 Roger Torrero
 
@@ -13,5 +12,9 @@ Rafael Flores
 UTP
 
 Adalberto Gonzalez
+>>>>>>> a8284656be6cccd6796844b39b68411ca810d347
+
+Boris S�nchez
+
 
 Álvaro Rodríguez
