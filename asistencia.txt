@@ -1,7 +1,7 @@
 Luis Dominguez
-<<<<<<< HEAD
+
 Edwin Lasso
-=======
+
 
 Roger Torrero
 
@@ -10,4 +10,4 @@ Frank Cerrud
 UTP
 
 Adalberto Gonzalez
->>>>>>> a8284656be6cccd6796844b39b68411ca810d347
+
