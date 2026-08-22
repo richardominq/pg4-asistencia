@@ -14,7 +14,6 @@ Adalberto Gonzalez
 
 Boris S�nchez
 
-
 Álvaro Rodríguez
 
 Eliam Fernandez
@@ -26,3 +25,5 @@ Joseph Castro
 jonathan cornejo
 
 Keisi Delgado
+
+Santiago Navarro
